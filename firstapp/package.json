@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "faker": "^4.1.0",
+    "npm": "^6.11.3",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
     "react-scripts": "3.1.2"
   },
   "scripts": {
@@ -27,5 +29,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-dev-utils": "^9.0.4"
   }
 }
