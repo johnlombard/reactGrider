@@ -3,7 +3,6 @@ import Unsplash from '../api/Unsplash';
 import SearchBar from './SearchBar';
 import ImageList from './ImageList'
 
-
 class App extends React.Component {
     state = { images: []}
 
